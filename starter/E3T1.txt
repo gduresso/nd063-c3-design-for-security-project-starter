@@ -1,3 +1,5 @@
 # Describe GuardDuty findings that were detected related to the brute force attack
-
+The guard duty detected an authorized access the policy credentail usafge of root user in my case as i am uisng my own account. 
 # Research the AWS Guard Duty documentation page and explain how GuardDuty may have detected this attack - i.e. what was its source of information.
+It monitors andcollects data data from Flow Logs, DNS Logs and CloudTrail.
+
